@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d3a,50:1e1b4b,100:3730a3&height=260&section=header&text=Waleed%20Ahmed&fontSize=88&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer&descSize=40&descAlignY=60&animation=fadeIn"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d3a,50:1e1b4b,100:3730a3&height=200&section=header&text=Waleed%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20and%20Tech%20Lead&descSize=26&descAlignY=60&animation=fadeIn" width="100%" alt="Waleed Ahmed, Senior Full-Stack Engineer and Tech Lead" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d3a%2C50:1e1b4b%2C100:3730a3&height=260&section=header&text=Waleed%20Ahmed&fontSize=88&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer&descSize=40&descAlignY=60&animation=fadeIn"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d3a,50:1e1b4b,100:3730a3&height=200&section=header&text=Waleed%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20and%20Tech%20Lead&descSize=26&descAlignY=60&animation=fadeIn" width="100%" alt="Waleed Ahmed, Senior Full-Stack Engineer and Tech Lead" /></picture>
 
 <p align="center">
   <picture><source media="(max-width: 600px)" srcset="https://img.shields.io/badge/EXPERIENCE-8%20YEARS-0f766e?style=flat-square&labelColor=1e293b"><img src="https://img.shields.io/badge/EXPERIENCE-8%20YEARS-0f766e?style=for-the-badge&labelColor=1e293b" alt="8 years experience" /></picture>
@@ -39,16 +39,16 @@ I use Claude Code every day to explore unfamiliar code, plan changes, write and 
 ## 🛠️ Stack
 
 **Frontend**<br>
-<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,sass,materialui,html,css&perline=5"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,sass,materialui,html,css&perline=11" alt="Frontend stack icons" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Cangular%2Ctailwind%2Csass%2Cmaterialui%2Chtml%2Ccss&perline=5"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,sass,materialui,html,css&perline=11" alt="Frontend stack icons" /></picture>
 
 **Backend & APIs**<br>
-<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet&perline=4"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet&perline=11" alt="Backend stack icons" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cexpress%2Cdotnet&perline=4"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet&perline=11" alt="Backend stack icons" /></picture>
 
 **Data**<br>
-<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=11" alt="Database icons" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb&perline=3"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=11" alt="Database icons" /></picture>
 
 **Cloud & DevOps**<br>
-<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&perline=3"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&perline=11" alt="Cloud and DevOps icons" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgithubactions%2Cgit%2Cgithub&perline=3"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&perline=11" alt="Cloud and DevOps icons" /></picture>
 
 **Testing**<br>
 <picture><source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=jest&perline=3"><img src="https://skillicons.dev/icons?i=jest&perline=11" alt="Testing icons" /></picture>
