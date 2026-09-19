@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=header&text=Waleed%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%26%20Tech%20Lead&descSize=18&descAlignY=60" width="100%" alt="Waleed Ahmed, Senior Full-Stack Engineer and Tech Lead" />
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=header&text=Waleed%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20and%20Tech%20Lead&descSize=18&descAlignY=60" width="100%" alt="Waleed Ahmed, Senior Full-Stack Engineer and Tech Lead" /></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-8%20years-2563eb?style=for-the-badge" alt="8 years experience" />
-  <img src="https://img.shields.io/badge/Role-Tech%20Lead-0f172a?style=for-the-badge" alt="Tech Lead" />
-  <img src="https://img.shields.io/badge/Anthropic-4%20certifications-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="4 Anthropic certifications" />
+  <picture><img src="https://img.shields.io/badge/Experience-8%20years-2563eb?style=for-the-badge" alt="8 years experience" /></picture>
+  <picture><img src="https://img.shields.io/badge/Role-Tech%20Lead-0f172a?style=for-the-badge" alt="Tech Lead" /></picture>
+  <picture><img src="https://img.shields.io/badge/Anthropic-Certified-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="4 Anthropic certifications" /></picture>
   <a href="https://linkedin.com/in/waleed-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -42,39 +42,39 @@ I use Claude Code every day to explore unfamiliar code, plan changes, write and 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,sass,materialui,html,css,storybook&perline=11" alt="Frontend stack icons" />
+<picture><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,sass,materialui,html,css,storybook&perline=11" alt="Frontend stack icons" /></picture>
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,swagger&perline=11" alt="Backend stack icons" />
+<picture><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,swagger&perline=11" alt="Backend stack icons" /></picture>
 
 **Data**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=11" alt="Database icons" />
+<picture><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=11" alt="Database icons" /></picture>
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&perline=11" alt="Cloud and DevOps icons" />
+<picture><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&perline=11" alt="Cloud and DevOps icons" /></picture>
 
 **Testing**
 
-<img src="https://skillicons.dev/icons?i=jest&perline=11" alt="Testing icons" />
+<picture><img src="https://skillicons.dev/icons?i=jest&perline=11" alt="Testing icons" /></picture>
 
 **AI & agentic engineering**
 
-<img src="https://img.shields.io/badge/Claude%20Code-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Claude%20API-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol-0f172a?style=flat-square" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/OpenAI%20Realtime%20API-412991?style=flat-square" alt="OpenAI Realtime API" />
+<picture><img src="https://img.shields.io/badge/Claude%20Code-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /></picture>
+<picture><img src="https://img.shields.io/badge/Claude%20API-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" /></picture>
+<picture><img src="https://img.shields.io/badge/Model%20Context%20Protocol-0f172a?style=flat-square" alt="Model Context Protocol" /></picture>
+<picture><img src="https://img.shields.io/badge/OpenAI%20Realtime%20API-412991?style=flat-square" alt="OpenAI Realtime API" /></picture>
 
 Also: REST, WebSockets, JWT/RBAC, microservices and micro-frontend architecture, system design.
 
 ## 🎓 Certifications
 
-<img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-Anthropic-d97757?style=flat-square" alt="Claude Code in Action" />
-<img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-Anthropic-d97757?style=flat-square" alt="Building with the Claude API" />
-<img src="https://img.shields.io/badge/Introduction%20to%20MCP-Anthropic-d97757?style=flat-square" alt="Introduction to Model Context Protocol" />
-<img src="https://img.shields.io/badge/Claude%20101-Anthropic-d97757?style=flat-square" alt="Claude 101" />
+<picture><img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-Anthropic-d97757?style=flat-square" alt="Claude Code in Action" /></picture>
+<picture><img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-Anthropic-d97757?style=flat-square" alt="Building with the Claude API" /></picture>
+<picture><img src="https://img.shields.io/badge/Introduction%20to%20MCP-Anthropic-d97757?style=flat-square" alt="Introduction to Model Context Protocol" /></picture>
+<picture><img src="https://img.shields.io/badge/Claude%20101-Anthropic-d97757?style=flat-square" alt="Claude 101" /></picture>
 
 ## 🔭 Currently
 
@@ -87,4 +87,4 @@ Also: REST, WebSockets, JWT/RBAC, microservices and micro-frontend architecture,
 - LinkedIn: [linkedin.com/in/waleed-ahmed-dev](https://linkedin.com/in/waleed-ahmed-dev)
 - Email: waleedbinwaseem1122@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%" alt="" />
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%" alt="" /></picture>
