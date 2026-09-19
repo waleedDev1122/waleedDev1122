@@ -3,13 +3,13 @@
 <p align="center">
   <picture><img src="https://img.shields.io/badge/Experience-8%20years-2563eb?style=for-the-badge" alt="8 years experience" /></picture>
   <picture><img src="https://img.shields.io/badge/Role-Tech%20Lead-0f172a?style=for-the-badge" alt="Tech Lead" /></picture>
-  <picture><img src="https://img.shields.io/badge/Anthropic-Certified-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="4 Anthropic certifications" /></picture>
+  <picture><img src="https://img.shields.io/badge/Anthropic-4%20certifications-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="4 Anthropic certifications" /></picture>
   <a href="https://linkedin.com/in/waleed-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## 👋 About
 
-I build SaaS platforms end to end: the data model, the API, the React frontend, and the cloud deployment. Lately I also build AI-powered features and agentic workflows with Claude and MCP, and I lead the teams that ship them.
+I build full-stack applications end to end: the data model, the API, the frontend, and the cloud deployment. Lately I also build AI-powered features and agentic workflows with Claude and MCP, and I lead the teams that ship them.
 
 Based in Lahore, Pakistan, and remote-first. Eight years in, I own features end to end, from product requirements through design, testing, and deployment.
 
@@ -17,10 +17,10 @@ Based in Lahore, Pakistan, and remote-first. Eight years in, I own features end 
 
 | | |
 | --- | --- |
-| 🏗️ **SaaS platform development** | Multi-tenant products, dashboards, workflow systems, and real-time features. React, Next.js, Node.js/NestJS, PostgreSQL. |
+| 🏗️ **Full-stack development** | Web applications, dashboards, workflow systems, and real-time features across regulatory, telecom, marketplace, and e-learning products. React, Next.js, Angular, Node.js/NestJS, PostgreSQL. |
 | 🤖 **AI solutions** | Claude API, tool calling, Model Context Protocol (MCP) integrations, and agentic workflows that hold up in production. |
 | 🧑‍✈️ **Technical leadership** | Architecture decisions, PR review and system design standards, and mentoring engineers. |
-| 🚀 **Delivery** | Turning scoped product work into tested, deployed software on AWS or GCP. |
+| 🚀 **Delivery** | Turning scoped product work into tested, deployed applications on AWS or GCP. |
 
 ## 🧠 How I work with AI
 
@@ -32,7 +32,7 @@ I use Claude Code every day to explore unfamiliar code, plan changes, write and 
 
 - **50,000+ users** on a matchmaking platform whose onboarding and matching modules I architected on PostgreSQL
 - **30% faster initial page load** through dynamic imports, route-based code splitting, and image optimization
-- **20% better Core Web Vitals** on internal SaaS platforms through code splitting, render optimization, and state management
+- **20% better Core Web Vitals** on internal platforms through code splitting, render optimization, and state management
 - **25% fewer production UI defects** after introducing unit testing, review checklists, and CI validation
 - **~30% less repetitive UI code** with a multilingual, modular form system
 - **15% faster feature delivery** from a shared component library adopted across 3 platforms
